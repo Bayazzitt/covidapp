@@ -1,6 +1,6 @@
 # → React İle API Kullanarak Canlı Covid Uygulaması ←
 
-> ### Proje Link 📎 → https://covidapp-quh258efn-bayazzitt.vercel.app/
+> ### Proje Link 📎 → https://covidapp-l4srkbrkf-bayazzitt.vercel.app/
 
 <br>
 
