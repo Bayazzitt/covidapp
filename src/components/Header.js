@@ -14,10 +14,6 @@ const Header = ({activeTitle, onMenuChange}) => {
         {
             title: "Kayde Geçmiş Tüm Corona Değerleri",
             value: 2
-        },
-        {
-            title: "Kıtalara Göre Corone Değerleri",
-            value: 3
         }
         ]
     )
