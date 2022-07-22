@@ -8,11 +8,11 @@ const Header = ({activeTitle, onMenuChange}) => {
     const [_activeTitle, setActiveTitle] = useState(activeTitle)
     const [menuItems] = useState(
         [{
-            title: "Ülkelere Göre Corone Değerleri",
+            title: "Ülkelere Göre Corona Verileri",
             value: 1
         },
         {
-            title: "Kayde Geçmiş Tüm Corona Değerleri",
+            title: "Kayda Geçmiş Tüm Corona Verileri",
             value: 2
         }
         ]
